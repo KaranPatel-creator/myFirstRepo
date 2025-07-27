@@ -9,3 +9,6 @@ if 4 % 2 == 0:
 
 if 5 % 2 != 0:
     print('five is odd')
+
+if 6 % 2 == 0:
+    print('six is even')
